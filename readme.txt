@@ -4,3 +4,4 @@ This is a third line
 This is a forth line
 This is a fifth line
 This is my new change to test merge
+This is new line after creating new branch
